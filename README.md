@@ -37,7 +37,7 @@ Kullanılan Teknolojiler
 
     
 - `GET /rest/apiproduct/list`: Ürün listesini getirir sonuna `/{productId}` eklenirse spesifik ürün gelir.
-- `PUT /rest/api/product/update/{productId}`: "Ürün güncellenir.
+- `PUT /rest/api/product/update/{productId}`: Ürün güncellenir.
   - Request Body:
     ```json
      {
